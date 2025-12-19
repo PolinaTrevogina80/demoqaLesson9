@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Jonathan Little",
+        "phoneNumber": "+13736195635",
+        "email": "windler.darlene@langosh.com",
+        "address": "404 Boehm Forge Kubstad, MS 43076",
+        "pets": [
+            {
+                "name": "Rex",
+                "species": "dog",
+                "sex": "male",
+                "age": 4
+            },
+            {
+                "name": "Murry",
+                "species": "cat",
+                "sex": "female",
+                "age": 1
+            }
+        ]
+    },
+    {
+        "name": "Paul Kris",
+        "phoneNumber": "1-820-345-1249",
+        "email": "ritchie.justyn@gmail.com",
+        "address": "69153 Leone Port Langworthview, MN 78363-3678",
+        "pets": [
+            {
+                "name": "Puh",
+                "species": "turtle",
+                "sex": "male",
+                "age": 15
+            }
+        ]
+    },
+    {
+        "name": "Alford Morissette",
+        "phoneNumber": "565-934-1594",
+        "email": "heathcote.darby@yahoo.com",
+        "address": "505 Ondricka Orchard Apt. 037 South Audreannehaven, NV 03635",
+        "pets": [
+            {
+                "name": "Dog",
+                "species": "dog",
+                "sex": "male",
+                "age": 8
+            },
+            {
+                "name": "Pussy",
+                "species": "cat",
+                "sex": "female",
+                "age": 7
+            }
+        ]
+    },
+    {
+        "name": "Jodie Labadie",
+        "phoneNumber": "(287) 314-4812",
+        "email": "dakota25@yahoo.com",
+        "address": "13579 Kian Extension East Wilfredoberg, MA 72036",
+        "pets": [
+            {
+                "name": "Himmy",
+                "species": "hamster",
+                "sex": "male",
+                "age": 2
+            },
+            {
+                "name": "Hummy",
+                "species": "hamster",
+                "sex": "female",
+                "age": 1
+            },
+            {
+                "name": "Hammy",
+                "species": "hamster",
+                "sex": "female",
+                "age": 1
+            }
+        ]
+    }
+]
