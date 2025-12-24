@@ -73,8 +73,8 @@ public class AutomationFormWithAllureNotationsTest extends TestBase {
     @Story("Mandatory fields field")
     @Severity(SeverityLevel.BLOCKER)
     @Link(value = "PracticeForm", url = "https://demoqa.com/automation-practice-form")
-    @DisplayName("If fill in only mandatory fields of Practice Form at DEMOQA and submit - \" +\n" +
-            "            \"popup is shown with data correct in filled fields")
+    @DisplayName("If fill in only mandatory fields of Practice Form at DEMOQA and submit - " +
+            "popup is shown with data correct in filled fields")
     void fillFormMinimumTest() throws IOException, URISyntaxException {
         User user = new User();
         user.createUser();
